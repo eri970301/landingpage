@@ -72,11 +72,12 @@ width: 100%;
     display: block;
     margin: auto;
     border-radius: 10%;
-    background-color: #dfbfbf;
+    background-color: #bfdfc2;
     font-family: 'Comic Neue', cursive;
     padding-left: 50px;
     padding-right: 50px;    
     font-weight: bold;
+    border: none;
 }
 #productos {
     display: flex;
